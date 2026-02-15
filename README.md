@@ -4,15 +4,9 @@
 
 ## 閲覧先
 
-- **プライバシーポリシー**: [GitHub Pages の URL をここに記載]
-  - 例: `https://[あなたのユーザー名].github.io/[リポジトリ名]/privacy.html`
+- **プライバシーポリシー**: [リンク](https://root75125.github.io/BudgetBookAppPrivacy/privacy.html)
 
 ## 用途
 
 - App Store 審査時に「プライバシーポリシー URL」として提出するため
 - ユーザーがアプリのデータ取り扱いを確認するため
-
-## リポジトリ構成
-
-- `privacy.html` … プライバシーポリシー本文（HTML）
-- `README.md` … 本ファイル
